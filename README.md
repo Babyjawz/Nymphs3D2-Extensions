@@ -10,6 +10,9 @@ It contains:
 
 Use this repository from Blender's Extensions preferences by adding the raw `index.json` URL for this repo.
 
+Use the `main` branch URL only.
+Old branch URLs such as `exp/2mv-remake` are obsolete because this repo now publishes from `main` only.
+
 Example pattern:
 
 ```text
